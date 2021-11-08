@@ -1,1 +1,3 @@
-# django-tome
+**Working with django**
+
+**Prepare for project** 
